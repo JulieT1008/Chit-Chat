@@ -35,5 +35,3 @@
 ![Screenshot of Chit Chat](app/assets/images/screenshot-ChitChat1.png)
 ![Screenshot of Chit Chat](app/assets/images/screenshot-ChitChat2.png)
 ![Screenshot of Chit Chat](app/assets/images/screenshot-ChitChat3.png)
-![Screenshot of Chit Chat](app/assets/images/screenshot-ChitChat4.png)
-![Screenshot of Chit Chat](app/assets/images/screenshot-ChitChat5.png)
