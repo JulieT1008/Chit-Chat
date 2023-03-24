@@ -29,9 +29,9 @@
 
 <p>You can check it here : https://www.chit-chat.website/</p>
 
-![Vidéo of Chit Chat](app/assets/images/video1.png)
+![Vidéo of Chit Chat](app/assets/images/video1.gif)
 
-![Vidéo of Chit Chat](app/assets/images/video2.png)
+![Vidéo of Chit Chat](app/assets/images/video2.gif)
 
 ![Screenshot of Chit Chat](app/assets/images/screenshot-ChitChat1.png)
 
