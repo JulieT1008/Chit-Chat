@@ -29,9 +29,8 @@
 
 <p>You can check it here : https://www.chit-chat.website/</p>
 
-![Vidéo of Chit Chat](app/assets/images/video2.gif)
-![Vidéo of Chit Chat](app/assets/images/video3.gif)
+<img src="app/assets/images/video2.gif" width="250" height="500"/><img src="app/assets/images/video3.gif" width="250" height="500"/>
 
-![Screenshot of Chit Chat](app/assets/images/screenshot-ChitChat1.png)
-![Screenshot of Chit Chat](app/assets/images/screenshot-ChitChat2.png)
-![Screenshot of Chit Chat](app/assets/images/screenshot-ChitChat3.png)
+<img src="app/assets/images/screenshot-ChitChat6.png" width="250" height="500"/>
+<img src="app/assets/images/screenshot-ChitChat7.png" width="250" height="500"/>
+<img src="app/assets/images/screenshot-ChitChat8.png" width="250" height="500"/>
